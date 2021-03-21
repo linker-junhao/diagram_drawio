@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-21T10:32:53.939Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="tZp6L2LSwsKXfXwo3EAg" version="14.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-21T11:01:49.384Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="aDwjOTxDgWgqXwOPbF_0" version="14.4.9" type="github">
   <diagram id="lm9k0x7NGWXTzrqfaZrK" name="Page-1">
     <mxGraphModel dx="706" dy="643" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,7 +19,7 @@
         <mxCell id="AmwR15StngVFYwORtQfd-6" value="poi搜索结果" style="swimlane;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="200" y="260" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="AmwR15StngVFYwORtQfd-7" value="leads信息编辑" style="swimlane;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="AmwR15StngVFYwORtQfd-7" value="leads信息编辑（增/改）" style="swimlane;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="380" y="260" width="150" height="200" as="geometry" />
         </mxCell>
         <mxCell id="AmwR15StngVFYwORtQfd-8" value="leads type 变更" style="swimlane;fontStyle=0" vertex="1" parent="1">
@@ -34,8 +34,29 @@
         <mxCell id="AmwR15StngVFYwORtQfd-11" value="leads客户记录列表" style="swimlane;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="20" y="720" width="150" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="AmwR15StngVFYwORtQfd-12" value="客户记录编辑" style="swimlane;fontStyle=0" vertex="1" parent="1">
+        <mxCell id="AmwR15StngVFYwORtQfd-12" value="leads客户记录编辑" style="swimlane;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="210" y="720" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AmwR15StngVFYwORtQfd-13" value="leads申领" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="380" y="720" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AmwR15StngVFYwORtQfd-14" value="leads发券" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="20" y="950" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AmwR15StngVFYwORtQfd-15" value="leads转公海" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="210" y="950" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AmwR15StngVFYwORtQfd-16" value="leads批量转移负责人" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="380" y="950" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AmwR15StngVFYwORtQfd-17" value="地图基础组件" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="580" y="10" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AmwR15StngVFYwORtQfd-18" value="地图地址拾取" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="150" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="AmwR15StngVFYwORtQfd-19" value="名片/名称扫描" style="swimlane;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="580" y="490" width="150" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
