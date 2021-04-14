@@ -1,30 +1,9 @@
-<mxfile host="app.diagrams.net" modified="2021-04-11T17:51:01.540Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="s8Nbzt0MqC7oSPQvGvJH" version="14.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-14T04:02:15.595Z" agent="5.0 (Macintosh; Intel Mac OS X 11_2_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.114 Safari/537.36" etag="Zk3uu23zrZ8VP2aUEmm7" version="14.5.8" type="github">
   <diagram id="uWqBroCjyXyHmRQUqWvy" name="Page-1">
     <mxGraphModel dx="890" dy="662" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="nOubKL9727zP79BDSy-0-95" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="314" y="612" width="172" height="106" as="geometry" />
-        </mxCell>
-        <mxCell id="nOubKL9727zP79BDSy-0-82" value="vuex: dataSrc/leadsSource" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;container=0;" vertex="1" parent="nOubKL9727zP79BDSy-0-95">
-          <mxGeometry width="172" height="106" as="geometry" />
-        </mxCell>
-        <mxCell id="nOubKL9727zP79BDSy-0-85" value="reload()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="nOubKL9727zP79BDSy-0-95">
-          <mxGeometry x="17" y="75.75" width="40" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="nOubKL9727zP79BDSy-0-86" value="reload data" style="ellipse;whiteSpace=wrap;html=1;align=center;container=0;" vertex="1" parent="nOubKL9727zP79BDSy-0-95">
-          <mxGeometry x="86" y="71" width="69" height="29.5" as="geometry" />
-        </mxCell>
-        <mxCell id="nOubKL9727zP79BDSy-0-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="nOubKL9727zP79BDSy-0-95" source="nOubKL9727zP79BDSy-0-85" target="nOubKL9727zP79BDSy-0-86">
-          <mxGeometry x="1" y="46" as="geometry" />
-        </mxCell>
-        <mxCell id="nOubKL9727zP79BDSy-0-91" value="leads source data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;align=center;" vertex="1" parent="nOubKL9727zP79BDSy-0-95">
-          <mxGeometry x="16" y="30" width="140" height="23" as="geometry" />
-        </mxCell>
-        <mxCell id="nOubKL9727zP79BDSy-0-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.743;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="nOubKL9727zP79BDSy-0-95" source="nOubKL9727zP79BDSy-0-86" target="nOubKL9727zP79BDSy-0-91">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="nOubKL9727zP79BDSy-0-68" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="347" y="769" width="240" height="330" as="geometry" />
         </mxCell>
@@ -175,20 +154,6 @@
             <mxPoint y="1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nOubKL9727zP79BDSy-0-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="nOubKL9727zP79BDSy-0-74" target="nOubKL9727zP79BDSy-0-85">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="606" y="871" />
-              <mxPoint x="606" y="728" />
-              <mxPoint x="361" y="728" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nOubKL9727zP79BDSy-0-101" value="call" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="nOubKL9727zP79BDSy-0-90">
-          <mxGeometry x="-0.7005" y="-3" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="nOubKL9727zP79BDSy-0-44" value="IView 级联" style="rounded=0;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="83" y="1070" width="240" height="30" as="geometry" />
         </mxCell>
@@ -203,6 +168,24 @@
           <mxGeometry x="-0.2174" y="1" relative="1" as="geometry">
             <mxPoint x="10.99" y="-0.63" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nOubKL9727zP79BDSy-0-82" value="vuex: dataSrc/leadsSourceType" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=top;container=0;" vertex="1" parent="1">
+          <mxGeometry x="292" y="612" width="194" height="106" as="geometry" />
+        </mxCell>
+        <mxCell id="nOubKL9727zP79BDSy-0-85" value="reload()" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;container=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="687.75" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="nOubKL9727zP79BDSy-0-86" value="reload data" style="ellipse;whiteSpace=wrap;html=1;align=center;container=0;" vertex="1" parent="1">
+          <mxGeometry x="379" y="683" width="69" height="29.5" as="geometry" />
+        </mxCell>
+        <mxCell id="nOubKL9727zP79BDSy-0-87" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nOubKL9727zP79BDSy-0-85" target="nOubKL9727zP79BDSy-0-86">
+          <mxGeometry x="294" y="658" as="geometry" />
+        </mxCell>
+        <mxCell id="nOubKL9727zP79BDSy-0-91" value="leads source data" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.stored_data;whiteSpace=wrap;align=center;" vertex="1" parent="1">
+          <mxGeometry x="309" y="643" width="140" height="23" as="geometry" />
+        </mxCell>
+        <mxCell id="nOubKL9727zP79BDSy-0-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.743;entryY=0.957;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="nOubKL9727zP79BDSy-0-86" target="nOubKL9727zP79BDSy-0-91">
+          <mxGeometry x="314" y="612" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
