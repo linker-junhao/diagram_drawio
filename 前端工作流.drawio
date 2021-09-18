@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-09-18T09:00:16.000Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="2wXpXztsEpChduaPmGMv" version="14.6.13" type="github">
+<mxfile host="app.diagrams.net" modified="2021-09-18T09:55:17.669Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.82 Safari/537.36" etag="TqdBHCzkm4IVTbYDgP_c" version="14.6.13" type="github">
   <diagram id="woz8dMOTYJz0N2fzD2KW" name="第 1 页">
     <mxGraphModel dx="946" dy="687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -127,13 +127,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RFMTxl0FSyGNoTt_sHQ5-1" value="维护组件工作流" style="swimlane;html=1;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;startSize=20;horizontal=0;horizontalStack=1;fillColor=#ffffff;gradientColor=none;opacity=20;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1030" width="860" height="2140" as="geometry" />
+          <mxGeometry x="40" y="1030" width="860" height="1930" as="geometry" />
         </mxCell>
         <mxCell id="RFMTxl0FSyGNoTt_sHQ5-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;" edge="1" parent="RFMTxl0FSyGNoTt_sHQ5-1" source="RFMTxl0FSyGNoTt_sHQ5-119" target="RFMTxl0FSyGNoTt_sHQ5-110">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RFMTxl0FSyGNoTt_sHQ5-2" value="UI" style="swimlane;html=1;startSize=20;" vertex="1" parent="RFMTxl0FSyGNoTt_sHQ5-1">
-          <mxGeometry x="20" width="300" height="2140" as="geometry" />
+          <mxGeometry x="20" width="300" height="1930" as="geometry" />
         </mxCell>
         <mxCell id="RFMTxl0FSyGNoTt_sHQ5-5" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;fillColor=#ffffff;gradientColor=none;" vertex="1" parent="RFMTxl0FSyGNoTt_sHQ5-2">
           <mxGeometry x="20" y="40" width="100" height="40" as="geometry" />
@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="RFMTxl0FSyGNoTt_sHQ5-3" value="前端开发人员" style="swimlane;html=1;startSize=20;" vertex="1" parent="RFMTxl0FSyGNoTt_sHQ5-1">
-          <mxGeometry x="320" width="270" height="2140" as="geometry" />
+          <mxGeometry x="320" width="270" height="1930" as="geometry" />
         </mxCell>
         <mxCell id="RFMTxl0FSyGNoTt_sHQ5-10" value="在之前的组件基础上设计" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="RFMTxl0FSyGNoTt_sHQ5-3">
           <mxGeometry x="75" y="150" width="120" height="60" as="geometry" />
@@ -315,7 +315,7 @@
           <mxGeometry x="72.5" y="1833" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="RFMTxl0FSyGNoTt_sHQ5-4" value="git/jenkins" style="swimlane;html=1;startSize=20;" vertex="1" parent="RFMTxl0FSyGNoTt_sHQ5-1">
-          <mxGeometry x="590" width="270" height="2140" as="geometry" />
+          <mxGeometry x="590" width="270" height="1930" as="geometry" />
         </mxCell>
         <mxCell id="RFMTxl0FSyGNoTt_sHQ5-132" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=#ffffff;" edge="1" parent="RFMTxl0FSyGNoTt_sHQ5-4" source="RFMTxl0FSyGNoTt_sHQ5-119" target="RFMTxl0FSyGNoTt_sHQ5-125">
           <mxGeometry relative="1" as="geometry" />
